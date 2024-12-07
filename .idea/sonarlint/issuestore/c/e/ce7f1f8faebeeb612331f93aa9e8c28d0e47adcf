@@ -1,0 +1,8 @@
+
+e
+java:S1192"HDefine a constant instead of duplicating this literal "Server " 3 times.(ç‹ÿñ8«ŒşŠº2
+{
+java:S2142 "^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¯ŒşŠº2
+G	java:S106"+Replace this use of System.out by a logger.(ç‹ÿñ8°ŒşŠº2
+L	java:S106"+Replace this use of System.out by a logger.(£á³Äÿÿÿÿÿ8°ŒşŠº2
+G	java:S106!"+Replace this use of System.out by a logger.(ñ¹ª8°ŒşŠº2
